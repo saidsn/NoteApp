@@ -1,0 +1,13 @@
+.blockCenter {
+  display: block;
+  margin: 20px auto;
+}
+.flexCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 4px;
+}
+.width100 {
+  width: 100%;
+}
